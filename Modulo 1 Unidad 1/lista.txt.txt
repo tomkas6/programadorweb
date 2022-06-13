@@ -1,3 +1,6 @@
 pan
 galletitas
 limpieza
+banana
+peras
+naranjas
