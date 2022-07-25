@@ -1,0 +1,22 @@
+.red {
+    width: 150px;
+    height: 150px;
+    background: red;
+    border: 1px solid #000;
+  }
+
+  .blue {
+    width: 150px;
+    height: 150px;
+    background: blue;
+    border: 1px solid #000;
+  }
+
+  .green {
+    width: 150px;
+    height: 150px;
+    background: green;
+    border: 1px solid #000;
+  }
+
+  
